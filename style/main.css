@@ -131,9 +131,16 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+
 .img-block {
     margin-right: 20px;
 }
+
+i {
+    font-size: 2em;
+}
+
+
 
 .footer {
     height: fit-content;
